@@ -4,10 +4,9 @@ A Power BI Sales dashboard of a Super Store, incorporating data analysis techniq
 https://app.powerbi.com/groups/me/reports/ca604e20-9f95-40b6-beaf-6c28d1f19b0e/ReportSectionba06fd40149b04a6bc4c?experience=power-bi
 
 Dashboard:
+![Screenshot 2024-09-15 at 7 07 08 AM](https://github.com/user-attachments/assets/1a32d6bc-4b46-4d99-9d60-20a424b149f9)
 
-![Screenshot 2024-09-15 at 7 03 57 AM](https://github.com/user-attachments/assets/ae34269f-9bb5-4dbf-a8cc-807189437f4e)
-
-![Screenshot 2024-09-15 at 7 04 08 AM](https://github.com/user-attachments/assets/fa36de8f-3071-45ea-810d-95ce6dc41df5)
+![Screenshot 2024-09-15 at 7 07 36 AM](https://github.com/user-attachments/assets/06beec16-30fc-489f-8493-6af6882353ae)
 
 Key Insights:
 1.	Seasonal Trends: Sales peak in December consistently.
