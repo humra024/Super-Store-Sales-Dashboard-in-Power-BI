@@ -1,9 +1,9 @@
 # Super-Store-Sales-Dashboard-in-Power-BI
 A Power BI Sales dashboard of a Super Store, incorporating data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
-Dashboard: https://app.powerbi.com/groups/me/reports/ca604e20-9f95-40b6-beaf-6c28d1f19b0e/ReportSection?experience=power-bi
+Visit Dashboard: https://app.powerbi.com/groups/me/reports/ca604e20-9f95-40b6-beaf-6c28d1f19b0e/ReportSection?experience=power-bi
 
-Dashboard:
+Dashboard Screenshots:
 ![Screenshot 2024-09-15 at 7 07 08 AM](https://github.com/user-attachments/assets/1a32d6bc-4b46-4d99-9d60-20a424b149f9)
 
 ![Screenshot 2024-09-15 at 7 07 36 AM](https://github.com/user-attachments/assets/06beec16-30fc-489f-8493-6af6882353ae)
